@@ -44,13 +44,13 @@ Agora vamos carregar a pasta da extensão no seu navegador.
 6.  Clique uma vez sobre a pasta para selecioná-la e, em seguida, clique no botão **"Selecionar pasta"**.
 7.  Pronto! Você verá um novo card da extensão "Chat Flutuante" aparecer na sua lista. A instalação está completa e um ícone 💬 deve aparecer em todas as páginas que você visitar.
 
-## 📖 Como Usar
+## Como Usar
 
 1.  Ao clicar no botão 💬 pela primeira vez, a janela de configuração aparecerá. Preencha os campos e clique em "Entrar".
 2.  Nos usos seguintes, um clique no botão apenas mostra ou esconde a janela do chat.
 3.  Para mover o chat, clique e arraste o botão 💬.
 4.  Para redimensionar a janela, clique e arraste o canto inferior direito dela.
 
-## ✒️ Autor
+## Autor
 
 * **Desenvolvedor Principal:** Fagner Louis
